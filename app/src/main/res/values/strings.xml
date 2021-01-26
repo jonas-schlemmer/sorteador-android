@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sorteador</string>
+    <string name="txtMain">Sorteador entre 0 e 10</string>
+    <string name="btnPlay">JOGAR</string>
+    <string name="txtInfo"></string>
+</resources>
